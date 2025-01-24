@@ -64,9 +64,4 @@ The interface is designed with a focus on simplicity, responsiveness, and aesthe
 
 **Sridhar**
 
-Feel free to connect or contribute to the project by reporting issues or suggesting improvements.
 
----
-
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
