@@ -56,7 +56,7 @@ The interface is designed with a focus on simplicity, responsiveness, and aesthe
 ## **Screenshots**
 
 ### **Application Layout**
-![Project Screenshot](https://github.com/SridharOG18/Swiggy_Project/blob/main/Screenshots/Swiggy_App.png?raw=true)
+![Project Screenshot]([https://github.com/SridharOG18/Swiggy_Project/blob/main/Screenshots/Swiggy_App.png?raw=true](https://github.com/SridharOG18/Swiggy-s-Restaurant-Recommendation-System-using-Streamlit-/blob/main/SwiggyappIMG.png))
 
 ---
 
