@@ -1,7 +1,5 @@
 # Swiggy-s-Restaurant-Recommendation-System-using-Streamlit-
 
-# **Swiggy Restaurant Analysis and Recommendation System**
-
 ## **Project Overview**
 This project, titled **"Swiggy Restaurant Analysis and Recommendation System,"** combines data cleaning, preprocessing, and visualization with an interactive web application to explore restaurant data effectively. Inspired by the design of Swiggy's platform, the application provides a user-friendly interface to filter restaurants based on various criteria and gain insights into the restaurant industry.
 
@@ -63,6 +61,6 @@ The interface is designed with a focus on simplicity, responsiveness, and aesthe
 
 ## **Developed by**
 
-- **Sridhar M**
+**Sridhar M**
 
 
