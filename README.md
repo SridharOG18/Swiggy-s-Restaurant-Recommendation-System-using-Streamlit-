@@ -63,6 +63,6 @@ The interface is designed with a focus on simplicity, responsiveness, and aesthe
 
 ## **Developed by **
 
-**Sridhar**
+-**Sridhar M**
 
 
